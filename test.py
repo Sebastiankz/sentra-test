@@ -19,3 +19,8 @@ def division (a,b):
     return a / b
 
 print(division(10,2))
+
+def potencia (a,b):
+    return a ** b
+
+print(potencia(2,3))
