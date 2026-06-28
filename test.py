@@ -13,6 +13,9 @@ def multiplicacion (a,b):
 
 print(multiplicacion(3,5))
 
+def division (a,b):
+    if b == 0:
+        return "Error: Division by zero"
+    return a / b
 
-
-
+print(division(10,2))
