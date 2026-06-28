@@ -1,5 +1,14 @@
 def suma (a,b):
     return a + b
 
-print(suma(2,3))
 print(suma(5,7))
+
+def resta (a,b):
+    return a - b
+
+print(resta(10,4))
+
+def multiplicacion (a,b):
+    return a * b    
+
+print(multiplicacion(3,5))
