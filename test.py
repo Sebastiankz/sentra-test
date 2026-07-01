@@ -24,10 +24,3 @@ def potencia (a,b):
     return a ** b
 
 print(potencia(2,3))
-
-def modulo (a,b):
-    if b == 0:
-        return "Error: Division by zero"
-    return a % b
-
-print(modulo(10,3))
